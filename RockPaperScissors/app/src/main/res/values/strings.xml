@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rock, Paper, Scissors</string>
+    <string name="action_settings">Settings</string>
+    <string name="statistics">Win: %d Lose: %d Draw: %d</string>
+    <string name="draw_string">Draw!</string>
+    <string name="lose_string">Computer wins!</string>
+    <string name="win_string">Player wins!</string>
+
+</resources>
